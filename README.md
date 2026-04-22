@@ -46,4 +46,4 @@ financial_data.csv:
 
 ## Помесячные коэффициенты пролонгации по менеджерам
 
-![Помесячные коэффициенты]([images/monthly_coef_managers.png](https://github.com/daniil-danilov-analyst/for_rpoject_2/blob/main/Помесячные%20коэфиценты%20менеджеров.png))
+![Помесячные коэффициенты менеджеров](https://raw.githubusercontent.com/daniil-danilov-analyst/for_rpoject_2/main/%D0%9F%D0%BE%D0%BC%D0%B5%D1%81%D1%8F%D1%87%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BE%D1%8D%D1%84%D0%B8%D1%86%D0%B5%D0%BD%D1%82%D1%8B%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%D0%BE%D0%B2.png)
